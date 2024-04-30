@@ -4,7 +4,7 @@ This is a straightforward calculator web application crafted with HTML, CSS, and
 ## Overview
 This calculator application enables users to perform basic arithmetic operations conveniently within their web browser. It provides a user-friendly interface for effortless calculation on any device.
 
-
+## Features
 - **Basic Arithmetic Operations** : Addition, subtraction, multiplication, and division.
 - **Responsive Design** : Ensures seamless functionality across various screen sizes.
 - **Clear Interface** : Intuitive design for easy navigation and usage.
